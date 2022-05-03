@@ -1,4 +1,4 @@
-## Discord-Scraped
+## Discord Scraped
 Usernames and Avatars scraped off of Discord.
 Useful for legitimising tokens or genning.
 
