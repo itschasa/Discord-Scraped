@@ -1,5 +1,5 @@
 ## Discord-Scraped
-Usernames and PFPs scraped off of Discord.
+Usernames and Avatars scraped off of Discord.
 Useful for legitimising tokens or genning.
 
 ### Amount of Data
