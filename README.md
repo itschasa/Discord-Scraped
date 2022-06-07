@@ -5,9 +5,9 @@ Useful for legitimising tokens or genning.
 ### Amount of Data
 As of 03/05/2022 (dd/mm/yy):
 
-| Names  | Avatars |
-|--------|---------|
-| ~30,000 | ~20,000 |
+| Names    | Avatars |
+|----------|---------|
+| ~131,000 | ~20,000 |
 
 Note: There may be duplicate avatars in the folder, but it shouldn't really matter, as there is so many of them.
 
