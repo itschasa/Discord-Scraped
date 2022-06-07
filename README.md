@@ -3,7 +3,7 @@ Usernames and Avatars scraped off of Discord.
 Useful for legitimising tokens or genning.
 
 ### Amount of Data
-As of 03/05/2022 (dd/mm/yy):
+As of 07/06/2022 (dd/mm/yy):
 
 | Names    | Avatars |
 |----------|---------|
